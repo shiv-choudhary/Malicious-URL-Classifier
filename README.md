@@ -9,7 +9,7 @@ Steps followed in building the machine learning classifier:
   Data Visualization
   Building Machine Learning Models using Lexical Features only.
   
-The label associated with each record contains the word "benign" if the URL is a good and "malicious" if it is malicious. DataSet is imbalanced till some extent, We can apply oversampling Technique(SMOTE). DataSet consist no NULL value.
+The label associated with each record contains the word 'benign' if the URL is a good and 'malicious' if it is malicious. DataSet is imbalanced till some extent, We can apply oversampling Technique(SMOTE). DataSet consist no NULL value.
 
 Using three models for classification and comparison. 
   1. Logistic Regression 
