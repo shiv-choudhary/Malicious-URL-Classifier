@@ -2,7 +2,7 @@
 
 ### As name suggest Malicious URL classifier is a machine learning model which will identify the given URL is malcious or not, used only lexical feature for model creation.Tokenization can be used.
 
-Dataset has been taken from Kaggle, which consist of 450176 DataPoint
+Dataset has been taken from Kaggle, which consist of 450176 DataPoint.
 
 Steps followed in building the machine learning classifier:
   Data Preprocessing / Feature Engineering
